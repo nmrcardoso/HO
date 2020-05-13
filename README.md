@@ -10,4 +10,4 @@ Needs:
 
 
 Output example:
-![qfit screenshot](https://github.com/nmrcardoso/HO/blob/master/ho.pdf)
+![qfit screenshot](https://github.com/nmrcardoso/HO/blob/master/ho.png)

@@ -268,7 +268,7 @@ class HO {
 		if(totalPoints > (x0xt_sum.size() - 1) ) totalPoints = x0xt_sum.size()-1;
 		for(int i =0;i < totalPoints;++i) {			
 			if(	meas != x0xt[i].size() ){
-				cout << "meas and array size does not have the same same.\nError..." << endl;
+				cout << "meas and array size does not have the same size.\nError..." << endl;
 				exit(1);
 			}
 			DataPoint p;

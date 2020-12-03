@@ -4,7 +4,7 @@ Monte Carlo Simulation of Harmonic Oscillator using Metropolis Algorithm in Disc
 
 Needs:
 
-- FLTK lib https://www.fltk.org/ (gui interface)
+- FLTK lib (version 1.3.5) https://www.fltk.org/ (gui interface)
   modified Fl_PostScript.H to allow to print the window to pdf
 - tested only in Linux
 
